@@ -6,7 +6,7 @@
 This project analyzes supermarket sales data to uncover key business insights using pivot tables and data visualization.
 
 ## Key Questions Answered: -
-1. Which productline generates the most revenue?
+1. Which product line generates the most revenue?
 2. Which city has the highest sales?
 3. What time of the day drives the most sales?
 
